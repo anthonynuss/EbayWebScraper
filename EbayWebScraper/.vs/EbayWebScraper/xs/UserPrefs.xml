@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EBE6A346-5ACE-4EBE-80F5-6B8F62EAACD5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EbayWebScraper/Program.cs">
+    <Files>
+      <File FileName="EbayWebScraper/Program.cs" Line="14" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EbayWebScraper" expanded="True">
+            <Node name="EbayWebScraper" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EbayWebScraper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

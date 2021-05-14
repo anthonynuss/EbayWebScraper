@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V2fSmQYXFxbEe8jIsmRxb6PEXBSqeNLBdVAu8I9nJV6ollFT4tZDEkl1ZWKj8Usru/mfz9CYDMNQO+bXVTEn6g==",
+  "success": true,
+  "projectFilePath": "/Users/tonynuss/Projects/EbayWebScraper/EbayWebScraper/EbayWebScraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/tonynuss/.nuget/packages/htmlagilitypack/1.11.33/htmlagilitypack.1.11.33.nupkg.sha512"
+  ],
+  "logs": []
+}
